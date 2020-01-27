@@ -1,0 +1,9 @@
+name: postgresql
+
+table:
+  component: '../'
+  inputs:
+    name: pg-test-table
+    engine: postgres
+
+
